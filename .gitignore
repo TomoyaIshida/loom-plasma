@@ -1,3 +1,4 @@
-/chaindata/
+chaindata/
+app.db/
 /priv_key
 
